@@ -1,0 +1,709 @@
+2025-10-12 10:26:01,760 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-10-12 10:26:01,762 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+2025-10-12 10:26:01,763 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-12 10:26:07,711 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:26:07] "GET / HTTP/1.1" 200 -
+2025-10-12 10:26:07,988 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:26:07] "GET /_favicon.ico?v=3.2.0 HTTP/1.1" 200 -
+2025-10-12 10:26:08,268 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:26:08] "GET /_dash-layout HTTP/1.1" 200 -
+2025-10-12 10:26:08,271 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:26:08] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-10-12 10:26:08,828 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:26:08] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-10-12 10:26:08,829 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:26:08] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+2025-10-12 10:26:08,858 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:26:08] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-10-12 10:26:08,989 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:26:08] "[36mGET /_dash-component-suites/dash/dcc/async-slider.js HTTP/1.1[0m" 304 -
+2025-10-12 10:26:09,012 - __main__ - INFO - ALL
+2025-10-12 10:26:09,349 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:26:09] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:26:11,029 - __main__ - INFO - CCAFS LC-40
+2025-10-12 10:26:11,062 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:26:11] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:27:12,784 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-10-12 10:27:12,786 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+2025-10-12 10:27:12,787 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-12 10:27:17,513 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:27:17] "GET / HTTP/1.1" 200 -
+2025-10-12 10:27:18,009 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:27:18] "GET /_favicon.ico?v=3.2.0 HTTP/1.1" 200 -
+2025-10-12 10:27:18,011 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:27:18] "GET /_dash-layout HTTP/1.1" 200 -
+2025-10-12 10:27:18,014 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:27:18] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-10-12 10:27:18,531 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:27:18] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-10-12 10:27:18,532 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:27:18] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+2025-10-12 10:27:18,796 - __main__ - INFO - ALL
+2025-10-12 10:27:18,806 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:27:18] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-10-12 10:27:18,813 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:27:18] "[36mGET /_dash-component-suites/dash/dcc/async-slider.js HTTP/1.1[0m" 304 -
+2025-10-12 10:27:19,208 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:27:19] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:27:21,429 - __main__ - INFO - CCAFS LC-40
+2025-10-12 10:27:21,465 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:27:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:27:37,648 - __main__ - INFO - VAFB SLC-4E
+2025-10-12 10:27:37,693 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:27:37] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:29:24,697 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-10-12 10:29:24,698 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+2025-10-12 10:29:24,698 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-12 10:29:27,936 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:29:27] "GET / HTTP/1.1" 200 -
+2025-10-12 10:29:28,250 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:29:28] "GET /_favicon.ico?v=3.2.0 HTTP/1.1" 200 -
+2025-10-12 10:29:28,389 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:29:28] "GET /_dash-layout HTTP/1.1" 200 -
+2025-10-12 10:29:28,469 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:29:28] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-10-12 10:29:29,174 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:29:29] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-10-12 10:29:29,175 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:29:29] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+2025-10-12 10:29:29,176 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:29:29] "[36mGET /_dash-component-suites/dash/dcc/async-slider.js HTTP/1.1[0m" 304 -
+2025-10-12 10:29:29,182 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:29:29] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-10-12 10:29:29,193 - __main__ - INFO - ALL
+2025-10-12 10:29:29,194 - __main__ - INFO - low: 0, high: 9600, ALL, [0, 9600]
+2025-10-12 10:29:29,201 - spacex-dash-app - ERROR - Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 254, in __call__
+    return call_result.result()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 331, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/dash.py", line 1478, in async_dispatch
+    response_data = ctx.run(partial_func)
+                    ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 688, in add_context
+    raise err
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 679, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)  # type: ignore[reportArgumentType]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 59, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/project/spacex-dash-app.py", line 114, in update_scatter_chart
+    filtered_df - spacex_df[
+    ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'filtered_df' where it is not associated with a value
+2025-10-12 10:29:29,212 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:29:29] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+2025-10-12 10:29:29,545 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:29:29] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:29:31,770 - __main__ - INFO - CCAFS LC-40
+2025-10-12 10:29:31,773 - __main__ - INFO - low: 0, high: 9600, CCAFS LC-40, [0, 9600]
+2025-10-12 10:29:31,806 - spacex-dash-app - ERROR - Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 254, in __call__
+    return call_result.result()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 331, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/dash.py", line 1478, in async_dispatch
+    response_data = ctx.run(partial_func)
+                    ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 688, in add_context
+    raise err
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 679, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)  # type: ignore[reportArgumentType]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 59, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/project/spacex-dash-app.py", line 114, in update_scatter_chart
+    filtered_df - spacex_df[
+    ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'filtered_df' where it is not associated with a value
+2025-10-12 10:29:31,807 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:29:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:29:31,809 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:29:31] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+2025-10-12 10:29:43,889 - __main__ - INFO - low: 1000, high: 10000, CCAFS LC-40, [1000, 10000]
+2025-10-12 10:29:43,892 - spacex-dash-app - ERROR - Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 254, in __call__
+    return call_result.result()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 331, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/dash.py", line 1478, in async_dispatch
+    response_data = ctx.run(partial_func)
+                    ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 688, in add_context
+    raise err
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 679, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)  # type: ignore[reportArgumentType]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 59, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/project/spacex-dash-app.py", line 114, in update_scatter_chart
+    filtered_df - spacex_df[
+    ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'filtered_df' where it is not associated with a value
+2025-10-12 10:29:43,895 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:29:43] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+2025-10-12 10:30:17,091 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-10-12 10:30:17,093 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+2025-10-12 10:30:17,093 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-12 10:30:20,897 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:20] "GET / HTTP/1.1" 200 -
+2025-10-12 10:30:21,291 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:21] "GET /_dash-layout HTTP/1.1" 200 -
+2025-10-12 10:30:21,489 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:21] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-10-12 10:30:21,491 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:21] "GET /_favicon.ico?v=3.2.0 HTTP/1.1" 200 -
+2025-10-12 10:30:22,511 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:22] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-10-12 10:30:22,512 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:22] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+2025-10-12 10:30:22,690 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:22] "[36mGET /_dash-component-suites/dash/dcc/async-slider.js HTTP/1.1[0m" 304 -
+2025-10-12 10:30:22,698 - __main__ - INFO - low: 0, high: 9600, ALL, [0, 9600]
+2025-10-12 10:30:22,704 - __main__ - INFO - ALL
+2025-10-12 10:30:22,715 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:22] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-10-12 10:30:23,288 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:23] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:30:23,307 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:23] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:30:26,710 - __main__ - INFO - low: 0, high: 9600, CCAFS LC-40, [0, 9600]
+2025-10-12 10:30:26,714 - spacex-dash-app - ERROR - Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 254, in __call__
+    return call_result.result()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 331, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/dash.py", line 1478, in async_dispatch
+    response_data = ctx.run(partial_func)
+                    ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 688, in add_context
+    raise err
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 679, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)  # type: ignore[reportArgumentType]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 59, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/project/spacex-dash-app.py", line 120, in update_scatter_chart
+    filtered_df = filtered_df[filtered_df['Launch Site']] == entered_site
+                  ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/frame.py", line 4119, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6212, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6261, in _raise_if_missing
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'VAFB SLC-4E', 'VAFB SLC-4E',\n       'VAFB SLC-4E', 'VAFB SLC-4E', 'VAFB SLC-4E', 'VAFB SLC-4E',\n       'VAFB SLC-4E', 'VAFB SLC-4E', 'VAFB SLC-4E', 'VAFB SLC-4E',\n       'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A',\n       'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A',\n       'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'CCAFS SLC-40',\n       'CCAFS SLC-40', 'CCAFS SLC-40', 'CCAFS SLC-40', 'CCAFS SLC-40',\n       'CCAFS SLC-40', 'CCAFS SLC-40'],\n      dtype='object')] are in the [columns]"
+2025-10-12 10:30:26,724 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:26] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+2025-10-12 10:30:26,730 - __main__ - INFO - CCAFS LC-40
+2025-10-12 10:30:26,769 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:26] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:30:38,090 - __main__ - INFO - low: 1000, high: 10000, CCAFS LC-40, [1000, 10000]
+2025-10-12 10:30:38,097 - spacex-dash-app - ERROR - Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 254, in __call__
+    return call_result.result()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 331, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/dash.py", line 1478, in async_dispatch
+    response_data = ctx.run(partial_func)
+                    ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 688, in add_context
+    raise err
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 679, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)  # type: ignore[reportArgumentType]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 59, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/project/spacex-dash-app.py", line 120, in update_scatter_chart
+    filtered_df = filtered_df[filtered_df['Launch Site']] == entered_site
+                  ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/frame.py", line 4119, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6212, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6261, in _raise_if_missing
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'VAFB SLC-4E', 'VAFB SLC-4E', 'VAFB SLC-4E', 'VAFB SLC-4E',\n       'VAFB SLC-4E', 'VAFB SLC-4E', 'VAFB SLC-4E', 'KSC LC-39A', 'KSC LC-39A',\n       'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A',\n       'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A',\n       'KSC LC-39A', 'CCAFS SLC-40', 'CCAFS SLC-40', 'CCAFS SLC-40',\n       'CCAFS SLC-40', 'CCAFS SLC-40', 'CCAFS SLC-40'],\n      dtype='object')] are in the [columns]"
+2025-10-12 10:30:38,101 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:38] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+2025-10-12 10:30:43,092 - __main__ - INFO - low: 1000, high: 8000, CCAFS LC-40, [1000, 8000]
+2025-10-12 10:30:43,096 - spacex-dash-app - ERROR - Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 254, in __call__
+    return call_result.result()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 331, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/dash.py", line 1478, in async_dispatch
+    response_data = ctx.run(partial_func)
+                    ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 688, in add_context
+    raise err
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 679, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)  # type: ignore[reportArgumentType]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 59, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/project/spacex-dash-app.py", line 120, in update_scatter_chart
+    filtered_df = filtered_df[filtered_df['Launch Site']] == entered_site
+                  ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/frame.py", line 4119, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6212, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6261, in _raise_if_missing
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'VAFB SLC-4E', 'VAFB SLC-4E', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A',\n       'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A',\n       'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A',\n       'CCAFS SLC-40', 'CCAFS SLC-40', 'CCAFS SLC-40', 'CCAFS SLC-40',\n       'CCAFS SLC-40', 'CCAFS SLC-40'],\n      dtype='object')] are in the [columns]"
+2025-10-12 10:30:43,100 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:43] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+2025-10-12 10:30:46,112 - __main__ - INFO - low: 1000, high: 8000, VAFB SLC-4E, [1000, 8000]
+2025-10-12 10:30:46,116 - spacex-dash-app - ERROR - Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 254, in __call__
+    return call_result.result()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 331, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/dash.py", line 1478, in async_dispatch
+    response_data = ctx.run(partial_func)
+                    ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 688, in add_context
+    raise err
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 679, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)  # type: ignore[reportArgumentType]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 59, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/project/spacex-dash-app.py", line 120, in update_scatter_chart
+    filtered_df = filtered_df[filtered_df['Launch Site']] == entered_site
+                  ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/frame.py", line 4119, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6212, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6261, in _raise_if_missing
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'VAFB SLC-4E', 'VAFB SLC-4E', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A',\n       'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A',\n       'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A',\n       'CCAFS SLC-40', 'CCAFS SLC-40', 'CCAFS SLC-40', 'CCAFS SLC-40',\n       'CCAFS SLC-40', 'CCAFS SLC-40'],\n      dtype='object')] are in the [columns]"
+2025-10-12 10:30:46,119 - __main__ - INFO - VAFB SLC-4E
+2025-10-12 10:30:46,121 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:46] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+2025-10-12 10:30:46,165 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:46] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:30:49,169 - __main__ - INFO - low: 2000, high: 8000, VAFB SLC-4E, [2000, 8000]
+2025-10-12 10:30:49,172 - spacex-dash-app - ERROR - Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 254, in __call__
+    return call_result.result()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 331, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/dash.py", line 1478, in async_dispatch
+    response_data = ctx.run(partial_func)
+                    ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 688, in add_context
+    raise err
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 679, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)  # type: ignore[reportArgumentType]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 59, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/project/spacex-dash-app.py", line 120, in update_scatter_chart
+    filtered_df = filtered_df[filtered_df['Launch Site']] == entered_site
+                  ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/frame.py", line 4119, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6212, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6261, in _raise_if_missing
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'VAFB SLC-4E', 'VAFB SLC-4E', 'KSC LC-39A', 'KSC LC-39A',\n       'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A',\n       'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A',\n       'KSC LC-39A', 'CCAFS SLC-40', 'CCAFS SLC-40', 'CCAFS SLC-40',\n       'CCAFS SLC-40', 'CCAFS SLC-40', 'CCAFS SLC-40'],\n      dtype='object')] are in the [columns]"
+2025-10-12 10:30:49,175 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:30:49] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+2025-10-12 10:33:33,870 - __main__ - INFO - low: 2000, high: 8000, ALL, [2000, 8000]
+2025-10-12 10:33:33,875 - __main__ - INFO - ALL
+2025-10-12 10:33:33,979 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:33:33] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:33:33,981 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:33:33] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:33:42,129 - __main__ - INFO - low: 2000, high: 8000, KSC LC-39A, [2000, 8000]
+2025-10-12 10:33:42,133 - spacex-dash-app - ERROR - Exception on /_dash-update-component [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 254, in __call__
+    return call_result.result()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/usr/local/lib/python3.11/dist-packages/asgiref/sync.py", line 331, in main_wrap
+    result = await self.awaitable(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/dash.py", line 1478, in async_dispatch
+    response_data = ctx.run(partial_func)
+                    ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 688, in add_context
+    raise err
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 679, in add_context
+    output_value = _invoke_callback(func, *func_args, **func_kwargs)  # type: ignore[reportArgumentType]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/dash/_callback.py", line 59, in _invoke_callback
+    return func(*args, **kwargs)  # %% callback invoked %%
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/project/spacex-dash-app.py", line 120, in update_scatter_chart
+    filtered_df = filtered_df[filtered_df['Launch Site']] == entered_site
+                  ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/frame.py", line 4119, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6212, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/home/theia/.local/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 6261, in _raise_if_missing
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40', 'CCAFS LC-40',\n       'CCAFS LC-40', 'VAFB SLC-4E', 'VAFB SLC-4E', 'KSC LC-39A', 'KSC LC-39A',\n       'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A',\n       'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A', 'KSC LC-39A',\n       'KSC LC-39A', 'CCAFS SLC-40', 'CCAFS SLC-40', 'CCAFS SLC-40',\n       'CCAFS SLC-40', 'CCAFS SLC-40', 'CCAFS SLC-40'],\n      dtype='object')] are in the [columns]"
+2025-10-12 10:33:42,135 - __main__ - INFO - KSC LC-39A
+2025-10-12 10:33:42,138 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:33:42] "[35m[1mPOST /_dash-update-component HTTP/1.1[0m" 500 -
+2025-10-12 10:33:42,362 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:33:42] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:36:43,106 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-10-12 10:36:43,108 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+2025-10-12 10:36:43,108 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-12 10:36:45,934 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:36:45] "GET / HTTP/1.1" 200 -
+2025-10-12 10:36:46,288 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:36:46] "GET /_favicon.ico?v=3.2.0 HTTP/1.1" 200 -
+2025-10-12 10:36:46,470 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:36:46] "GET /_dash-layout HTTP/1.1" 200 -
+2025-10-12 10:36:46,473 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:36:46] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-10-12 10:36:47,291 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:36:47] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-10-12 10:36:47,292 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:36:47] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+2025-10-12 10:36:47,332 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:36:47] "[36mGET /_dash-component-suites/dash/dcc/async-slider.js HTTP/1.1[0m" 304 -
+2025-10-12 10:36:47,338 - __main__ - INFO - ALL
+2025-10-12 10:36:47,350 - __main__ - INFO - low: 0, high: 9600, ALL, [0, 9600]
+2025-10-12 10:36:47,354 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:36:47] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-10-12 10:36:47,878 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:36:47] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:36:47,894 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:36:47] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:36:52,209 - __main__ - INFO - low: 0, high: 9600, CCAFS LC-40, [0, 9600]
+2025-10-12 10:36:52,227 - __main__ - INFO - CCAFS LC-40
+2025-10-12 10:36:52,304 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:36:52] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:36:52,306 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:36:52] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:36:55,428 - __main__ - INFO - low: 1000, high: 10000, CCAFS LC-40, [1000, 10000]
+2025-10-12 10:36:55,484 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:36:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:36:57,709 - __main__ - INFO - low: 2000, high: 10000, CCAFS LC-40, [2000, 10000]
+2025-10-12 10:36:57,990 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:36:57] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:37:05,310 - __main__ - INFO - low: 2000, high: 9000, CCAFS LC-40, [2000, 9000]
+2025-10-12 10:37:05,363 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:37:05] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:38:02,489 - __main__ - INFO - low: 4000, high: 9000, CCAFS LC-40, [4000, 9000]
+2025-10-12 10:38:02,547 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:38:02] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:38:05,468 - __main__ - INFO - VAFB SLC-4E
+2025-10-12 10:38:05,469 - __main__ - INFO - low: 4000, high: 9000, VAFB SLC-4E, [4000, 9000]
+2025-10-12 10:38:05,545 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:38:05] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:38:05,546 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:38:05] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:38:17,032 - __main__ - INFO - low: 4000, high: 9000, KSC LC-39A, [4000, 9000]
+2025-10-12 10:38:17,045 - __main__ - INFO - KSC LC-39A
+2025-10-12 10:38:17,148 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:38:17] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:38:17,162 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:38:17] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:38:22,970 - __main__ - INFO - low: 4000, high: 9000, CCAFS SLC-40, [4000, 9000]
+2025-10-12 10:38:22,987 - __main__ - INFO - CCAFS SLC-40
+2025-10-12 10:38:23,103 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:38:23] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:38:23,104 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:38:23] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:38:29,769 - __main__ - INFO - ALL
+2025-10-12 10:38:29,804 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:38:29] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:38:29,808 - __main__ - INFO - low: 4000, high: 9000, ALL, [4000, 9000]
+2025-10-12 10:38:29,876 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:38:29] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:39:38,170 - __main__ - INFO - CCAFS LC-40
+2025-10-12 10:39:38,181 - __main__ - INFO - low: 4000, high: 9000, CCAFS LC-40, [4000, 9000]
+2025-10-12 10:39:38,274 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:39:38] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:39:38,299 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:39:38] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:39:42,135 - __main__ - INFO - low: 5000, high: 9000, CCAFS LC-40, [5000, 9000]
+2025-10-12 10:39:42,190 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:39:42] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:39:43,610 - __main__ - INFO - low: 0, high: 9000, CCAFS LC-40, [0, 9000]
+2025-10-12 10:39:43,671 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:39:43] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:39:47,790 - __main__ - INFO - low: 0, high: 9000, ALL, [0, 9000]
+2025-10-12 10:39:47,791 - __main__ - INFO - ALL
+2025-10-12 10:39:47,889 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:39:47] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:39:47,909 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:39:47] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:41:33,499 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-10-12 10:41:42,825 - dash.dash - INFO - Dash is running on http://127.0.0.1:8050/
+
+2025-10-12 10:42:00,710 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:42:00] "GET / HTTP/1.1" 200 -
+2025-10-12 10:42:01,127 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:42:01] "GET /_dash-layout HTTP/1.1" 200 -
+2025-10-12 10:42:01,267 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:42:01] "GET /_dash-dependencies HTTP/1.1" 200 -
+2025-10-12 10:42:01,269 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:42:01] "GET /_favicon.ico?v=3.2.0 HTTP/1.1" 200 -
+2025-10-12 10:42:01,549 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:42:01] "[36mGET /_dash-component-suites/dash/dcc/async-dropdown.js HTTP/1.1[0m" 304 -
+2025-10-12 10:42:01,973 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:42:01] "[36mGET /_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1[0m" 304 -
+2025-10-12 10:42:01,979 - __main__ - INFO - ALL
+2025-10-12 10:42:01,980 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:42:01] "[36mGET /_dash-component-suites/dash/dcc/async-slider.js HTTP/1.1[0m" 304 -
+2025-10-12 10:42:01,982 - __main__ - INFO - low: 0, high: 9600, ALL, [0, 9600]
+2025-10-12 10:42:02,005 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:42:02] "[36mGET /_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1[0m" 304 -
+2025-10-12 10:42:02,075 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:42:02] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:42:02,136 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:42:02] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:45:11,851 - __main__ - INFO - CCAFS LC-40
+2025-10-12 10:45:11,866 - __main__ - INFO - low: 0, high: 9600, CCAFS LC-40, [0, 9600]
+2025-10-12 10:45:11,969 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:45:11] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:45:11,996 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:45:11] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:45:51,470 - __main__ - INFO - low: 1000, high: 10000, CCAFS LC-40, [1000, 10000]
+2025-10-12 10:45:51,536 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:45:51] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:46:58,896 - __main__ - INFO - ALL
+2025-10-12 10:46:58,898 - __main__ - INFO - low: 1000, high: 10000, ALL, [1000, 10000]
+2025-10-12 10:46:59,037 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:46:59] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:46:59,064 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:46:59] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:49:38,208 - __main__ - INFO - low: 0, high: 10000, ALL, [0, 10000]
+2025-10-12 10:49:38,300 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:49:38] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:49:49,059 - __main__ - INFO - CCAFS LC-40
+2025-10-12 10:49:49,087 - __main__ - INFO - low: 0, high: 10000, CCAFS LC-40, [0, 10000]
+2025-10-12 10:49:49,186 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:49:49] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:49:49,220 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:49:49] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:50:03,070 - __main__ - INFO - low: 0, high: 10000, VAFB SLC-4E, [0, 10000]
+2025-10-12 10:50:03,074 - __main__ - INFO - VAFB SLC-4E
+2025-10-12 10:50:03,157 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:50:03] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:50:03,195 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:50:03] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:50:11,329 - __main__ - INFO - KSC LC-39A
+2025-10-12 10:50:11,332 - __main__ - INFO - low: 0, high: 10000, KSC LC-39A, [0, 10000]
+2025-10-12 10:50:11,425 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:50:11] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:50:11,465 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:50:11] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:50:15,651 - __main__ - INFO - CCAFS SLC-40
+2025-10-12 10:50:15,694 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:50:15] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:50:15,832 - __main__ - INFO - low: 0, high: 10000, CCAFS SLC-40, [0, 10000]
+2025-10-12 10:50:15,903 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:50:15] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:50:20,256 - __main__ - INFO - VAFB SLC-4E
+2025-10-12 10:50:20,268 - __main__ - INFO - low: 0, high: 10000, VAFB SLC-4E, [0, 10000]
+2025-10-12 10:50:20,391 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:50:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:50:20,410 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:50:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:51:20,891 - __main__ - INFO - low: 0, high: 10000, ALL, [0, 10000]
+2025-10-12 10:51:20,893 - __main__ - INFO - ALL
+2025-10-12 10:51:20,996 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:51:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:51:21,003 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:51:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:51:57,910 - __main__ - INFO - low: 2000, high: 10000, ALL, [2000, 10000]
+2025-10-12 10:51:57,967 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:51:57] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:52:00,689 - __main__ - INFO - low: 2000, high: 7500, ALL, [2000, 7500]
+2025-10-12 10:52:00,753 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:52:00] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:52:07,729 - __main__ - INFO - low: 2000, high: 7500, CCAFS LC-40, [2000, 7500]
+2025-10-12 10:52:07,752 - __main__ - INFO - CCAFS LC-40
+2025-10-12 10:52:07,826 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:52:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:52:07,834 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:52:07] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:52:13,848 - __main__ - INFO - low: 4000, high: 7500, CCAFS LC-40, [4000, 7500]
+2025-10-12 10:52:13,898 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:52:13] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:52:20,929 - __main__ - INFO - low: 0, high: 7500, CCAFS LC-40, [0, 7500]
+2025-10-12 10:52:20,986 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:52:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:52:27,041 - __main__ - INFO - low: 0, high: 10000, CCAFS LC-40, [0, 10000]
+2025-10-12 10:52:27,112 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:52:27] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:52:29,430 - __main__ - INFO - ALL
+2025-10-12 10:52:29,432 - __main__ - INFO - low: 0, high: 10000, ALL, [0, 10000]
+2025-10-12 10:52:29,518 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:52:29] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:52:29,553 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:52:29] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:53:55,130 - __main__ - INFO - low: 1000, high: 10000, ALL, [1000, 10000]
+2025-10-12 10:53:55,192 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:53:55] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:53:57,209 - __main__ - INFO - low: 2000, high: 10000, ALL, [2000, 10000]
+2025-10-12 10:53:57,272 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:53:57] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:54:00,289 - __main__ - INFO - low: 2000, high: 6000, ALL, [2000, 6000]
+2025-10-12 10:54:00,352 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:54:00] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:54:20,252 - __main__ - INFO - low: 2500, high: 6000, ALL, [2500, 6000]
+2025-10-12 10:54:20,319 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:54:20] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:54:22,529 - __main__ - INFO - low: 2500, high: 5000, ALL, [2500, 5000]
+2025-10-12 10:54:22,591 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:54:22] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:54:25,408 - __main__ - INFO - low: 3000, high: 5000, ALL, [3000, 5000]
+2025-10-12 10:54:25,471 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:54:25] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:54:28,069 - __main__ - INFO - low: 0, high: 5000, ALL, [0, 5000]
+2025-10-12 10:54:28,137 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:54:28] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:54:29,849 - __main__ - INFO - low: 0, high: 10000, ALL, [0, 10000]
+2025-10-12 10:54:30,150 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:54:30] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:54:35,229 - __main__ - INFO - low: 0, high: 8000, ALL, [0, 8000]
+2025-10-12 10:54:35,297 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:54:35] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:54:38,190 - __main__ - INFO - low: 0, high: 7500, ALL, [0, 7500]
+2025-10-12 10:54:38,260 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:54:38] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:54:41,350 - __main__ - INFO - low: 0, high: 7000, ALL, [0, 7000]
+2025-10-12 10:54:41,465 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:54:41] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:54:43,709 - __main__ - INFO - low: 0, high: 6000, ALL, [0, 6000]
+2025-10-12 10:54:43,793 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:54:43] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:54:45,549 - __main__ - INFO - low: 0, high: 5000, ALL, [0, 5000]
+2025-10-12 10:54:45,623 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:54:45] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:54:47,990 - __main__ - INFO - low: 0, high: 4000, ALL, [0, 4000]
+2025-10-12 10:54:48,059 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:54:48] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:54:50,449 - __main__ - INFO - low: 0, high: 3000, ALL, [0, 3000]
+2025-10-12 10:54:50,507 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:54:50] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:54:53,528 - __main__ - INFO - low: 0, high: 2500, ALL, [0, 2500]
+2025-10-12 10:54:53,587 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:54:53] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:54:55,951 - __main__ - INFO - low: 0, high: 2000, ALL, [0, 2000]
+2025-10-12 10:54:56,020 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:54:56] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:55:00,468 - __main__ - INFO - low: 0, high: 1000, ALL, [0, 1000]
+2025-10-12 10:55:00,536 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:55:00] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:55:17,770 - __main__ - INFO - low: 0, high: 2000, ALL, [0, 2000]
+2025-10-12 10:55:17,835 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:55:17] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:55:21,848 - __main__ - INFO - low: 0, high: 10000, ALL, [0, 10000]
+2025-10-12 10:55:21,921 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:55:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:58:14,190 - __main__ - INFO - low: 3000, high: 10000, ALL, [3000, 10000]
+2025-10-12 10:58:14,258 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:58:14] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:58:19,010 - __main__ - INFO - low: 3000, high: 4000, ALL, [3000, 4000]
+2025-10-12 10:58:19,077 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:58:19] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:58:21,728 - __main__ - INFO - low: 3000, high: 5000, ALL, [3000, 5000]
+2025-10-12 10:58:21,814 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:58:21] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:58:26,169 - __main__ - INFO - low: 2500, high: 5000, ALL, [2500, 5000]
+2025-10-12 10:58:26,227 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:58:26] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:58:29,248 - __main__ - INFO - low: 0, high: 5000, ALL, [0, 5000]
+2025-10-12 10:58:29,314 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:58:29] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:58:30,989 - __main__ - INFO - low: 0, high: 2500, ALL, [0, 2500]
+2025-10-12 10:58:31,055 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:58:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:58:38,029 - __main__ - INFO - low: 0, high: 10000, ALL, [0, 10000]
+2025-10-12 10:58:38,115 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:58:38] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:58:40,250 - __main__ - INFO - low: 2500, high: 10000, ALL, [2500, 10000]
+2025-10-12 10:58:40,324 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:58:40] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:58:44,669 - __main__ - INFO - low: 2500, high: 9000, ALL, [2500, 9000]
+2025-10-12 10:58:44,727 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:58:44] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:58:47,247 - __main__ - INFO - low: 2500, high: 8000, ALL, [2500, 8000]
+2025-10-12 10:58:47,310 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:58:47] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:58:49,789 - __main__ - INFO - low: 2500, high: 7500, ALL, [2500, 7500]
+2025-10-12 10:58:49,853 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:58:49] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:58:51,209 - __main__ - INFO - low: 2500, high: 7000, ALL, [2500, 7000]
+2025-10-12 10:58:51,284 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:58:51] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:58:54,628 - __main__ - INFO - low: 2500, high: 6000, ALL, [2500, 6000]
+2025-10-12 10:58:54,687 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:58:54] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:58:57,949 - __main__ - INFO - low: 2500, high: 5000, ALL, [2500, 5000]
+2025-10-12 10:58:58,010 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:58:58] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:59:01,411 - __main__ - INFO - low: 2500, high: 4000, ALL, [2500, 4000]
+2025-10-12 10:59:01,483 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:59:01] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:59:16,769 - __main__ - INFO - low: 2000, high: 4000, ALL, [2000, 4000]
+2025-10-12 10:59:16,830 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:59:16] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:59:19,750 - __main__ - INFO - low: 2500, high: 4000, ALL, [2500, 4000]
+2025-10-12 10:59:19,810 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:59:19] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:59:22,110 - __main__ - INFO - low: 2500, high: 5000, ALL, [2500, 5000]
+2025-10-12 10:59:22,169 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:59:22] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:59:25,108 - __main__ - INFO - low: 2500, high: 4000, ALL, [2500, 4000]
+2025-10-12 10:59:25,166 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:59:25] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:59:31,429 - __main__ - INFO - low: 2500, high: 5000, ALL, [2500, 5000]
+2025-10-12 10:59:31,493 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:59:31] "POST /_dash-update-component HTTP/1.1" 200 -
+2025-10-12 10:59:34,550 - __main__ - INFO - low: 2500, high: 4000, ALL, [2500, 4000]
+2025-10-12 10:59:34,611 - werkzeug - INFO - 127.0.0.1 - - [12/Oct/2025 10:59:34] "POST /_dash-update-component HTTP/1.1" 200 -
